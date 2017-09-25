@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{638B426E-6A40-4030-BD9A-EEBD84BD55FE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GrapgTutorial Status">
+    <Files>
+      <File FileName="GrapgTutorial Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GrapgTutorial PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
